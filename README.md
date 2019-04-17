@@ -3,7 +3,7 @@
 
 ## Demo
 
-[![Sample Link(will be available soon.)](https://github.io)
+![Nimbus demo page](http://nimbus.canbektas.com)
 
 ## What is Nimbus?
 Nimbus is an xml viewer and editor that works on browsers environment. Nimbus visualize xml files to a form that more understandable by individuals. Also labels and values can be changed via Nimbus easily.
