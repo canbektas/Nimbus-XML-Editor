@@ -11,9 +11,9 @@ Nimbus is an xml viewer and editor that works on browsers environment. Nimbus vi
 ##
 Download or clone the repository. Open terminal and navigate the repository folder. Simply install node dependencies with 
  ```npm install```. 
-Run ```npm serve``` to open the project on port 8888 of localhost. 
+Run ```npm run serve``` to open the project on port 8888 of localhost. 
 
-You can use ```npm build``` to build assets and static html files which you can host on a server.   
+You can use ```npm run build``` to build assets and static html files which you can host on a server.   
 
 ## How to use Nimbus? 
 After accessing the project interface paste your xml document to the **Xml Code Pane**.
