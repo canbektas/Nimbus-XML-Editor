@@ -3,7 +3,7 @@
 
 ## Demo
 
-[![Sample Link](https://github.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/754n8y281?fontsize=14)
+[![Sample Link(will be available soon.)](https://github.io)
 
 ## What is Nimbus?
 Nimbus is an xml viewer and editor that works on browsers environment. Nimbus visualize xml files to a form that more understandable by individuals. Also labels and values can be changed via Nimbus easily.
