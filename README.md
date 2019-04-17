@@ -3,7 +3,7 @@
 
 ## Demo
 
-![Nimbus demo page](http://nimbus.canbektas.com)
+[http://nimbus.canbektas.com][Nimbus Demo Page]
 
 ## What is Nimbus?
 Nimbus is an xml viewer and editor that works on browsers environment. Nimbus visualize xml files to a form that more understandable by individuals. Also labels and values can be changed via Nimbus easily.
@@ -25,3 +25,6 @@ Then click the convert button to convert pasted xml to Nimbus view.
 
 Use the inputs to change labels and values.
 ![image](https://user-images.githubusercontent.com/20637375/56272220-eddca500-6102-11e9-9528-a4fdb97d9033.png)
+
+
+[Nimbus Demo Page]: http://nimbus.canbektas.com
