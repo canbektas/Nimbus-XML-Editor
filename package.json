@@ -16,7 +16,7 @@
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
     "xml-js": "^1.6.11",
-    "lodash-es": "4.17.11"
+    "lodash-es": "4.17.14"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.5",
